@@ -1,6 +1,6 @@
 {
-  "short_name": "react-router in Twitter and Pinterest style",
-  "name": "react-router in Twitter and Pinterest style",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",

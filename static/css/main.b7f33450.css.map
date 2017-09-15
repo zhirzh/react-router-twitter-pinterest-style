@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,EACE,UACA,QAAU,CAGZ,KACE,sCACA,aACA,WAAa","file":"static/css/main.b7f33450.css","sourcesContent":["* {\n  padding: 0;\n  margin: 0;\n}\n\n.foo {\n  background-color: rgba(150, 200, 255, 0.3);\n  padding: 15px;\n  margin: 10px;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/App.css"],"sourceRoot":""}
